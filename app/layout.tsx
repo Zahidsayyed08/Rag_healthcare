@@ -10,7 +10,7 @@ const inter = Inter({ subsets: ["latin"] });
 const source_code_pro = Source_Code_Pro({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Mr. AlmostMD",
+  title: "RAG Powered Medical Assitant",
   description: "The med-school dropout with a solid advice",
 };
 
